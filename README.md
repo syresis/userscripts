@@ -1,1 +1,1 @@
-# userscripts
+# userscripts for tampermonkey
