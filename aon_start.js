@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Archives of Nethys Improvements On Start
-// @match        http://aonprd.com/*
+// @name     Archives of Nethys Improvements On Start
+// @match    http://aonprd.com/*
 // @grant    GM_addStyle
 // @run-at   document-start
 // ==/UserScript==
